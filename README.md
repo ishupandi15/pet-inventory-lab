@@ -53,7 +53,7 @@ This line sets the **file path inside the S3 bucket** where exported data will b
 
 Breakdown:
 
-- `YIshwariyaPandiDynamoDbFolder-export/` → folder (prefix) created inside S3  
+- `IshwariyaPandiDynamoDbFolder-export/` → folder (prefix) created inside S3  
 - `pets.json` → actual JSON file name created during export  
 
 So your file ends up in:
